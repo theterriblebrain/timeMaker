@@ -7,8 +7,8 @@ recipientName = userVariables.recipientName
 senderName = userVariables.senderName
 secondaryName = userVariables.secondaryName
 senderEmailName = userVariables.senderEmailName
-recipients = userVariables.testRecipients
-#recipients = recipients
+#recipients = userVariables.testRecipients
+recipients = userVariables.recipients
 
 #SMTP SETTINGS VARIABLES
 smtpHost = userVariables.smtpHost
