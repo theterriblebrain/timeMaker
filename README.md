@@ -2,7 +2,7 @@
 ABOUT:
  This is an automatic time sender program by u/theterriblebrain - there is no license or
  claim of ownership or copyright etc. Responsibility for any resulting DF / reproof / bothered
- conscience belongs to the user not the creator.
+ conscience belongs to the user not the author.
 
  The purpose of this program is allow you to automate the sending of time to one's SGO(s).
  This program picks the quantity of hours, placements, studies and rvs from a specified
