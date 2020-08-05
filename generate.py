@@ -151,7 +151,7 @@ elif msgNumber == 5:
 if subjNumber == 1:
     subjectTxt = subject1
 elif subjNumber == 2:
-    subjecTxt = subject2
+    subjectTxt = subject2
 elif subjNumber == 3:
     subjectTxt = subject3
 elif subjNumber == 4:
